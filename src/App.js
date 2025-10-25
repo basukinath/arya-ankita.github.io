@@ -1,4 +1,5 @@
 import ReactDOM from "react-dom/client";
+import "../index.css"; 
 import Header from "./components/Header";
 import Welcome from "./components/Welcome";
 import Work from "./components/Work";
