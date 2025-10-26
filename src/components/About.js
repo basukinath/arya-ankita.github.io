@@ -1,6 +1,6 @@
 const About = () => {
   return (
-    <section className="about-section">
+    <section id="whoiam" className="about-section">
   {/* First grid: para left, image right */}
   <div className="skills-grid">
     <div className="my-skills">
