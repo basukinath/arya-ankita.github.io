@@ -1,7 +1,7 @@
 {
   "name": "myportfolio",
   "version": "1.0.0",
-  "homepage": "https://github.com/arya-ankita/arya-ankita.github.io.git",
+  "homepage": "https://github.com/arya-ankita/arya-ankita.github.io",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
